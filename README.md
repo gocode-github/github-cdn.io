@@ -1,1 +1,1 @@
-# github-cdn.io
+cdn
